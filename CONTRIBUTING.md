@@ -6,3 +6,5 @@
 4. Add tests.
 5. Open a pull request.
 6. Request a review.
+7. Add a valid comment for the PR
+   
